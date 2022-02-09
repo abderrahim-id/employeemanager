@@ -1,0 +1,7 @@
+
+
+1. Spring initializer
+2. package model > class Employee
+3. connection to database : application.properties
+4. package repo > interface EmployeeRepo
+5. package service > class EmployeeService
