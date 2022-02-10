@@ -5,3 +5,4 @@
 3. connection to database : application.properties
 4. package repo > interface EmployeeRepo
 5. package service > class EmployeeService
+6. class EmployeeResource
